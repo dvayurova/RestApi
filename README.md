@@ -16,7 +16,7 @@ REST API для перенаправления запросов на https://jso
 * Caffeine
 * Spring AOP
 * Maven
-* Postgresql.
+* PostgreSQL
 
 ## Результат
 1) Реализованы обработчики (GET, POST, PUT, DELETE), которые проксируют запросы к
